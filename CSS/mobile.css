@@ -1,0 +1,36 @@
+@media screen and (max-width:975px) {
+    .navigation{
+        flex-direction: column;
+        margin-bottom: 23px;
+    }
+    .nav-left{
+        flex-direction: column;
+        text-align: center;
+       margin-bottom: 10px;
+      
+    }
+    .content-right{
+        display: none;
+    }
+    .home-article{
+        flex-direction: column;
+    }
+    .home-article-img{
+        text-align: center;
+    }
+    .home-article-content{
+        text-align: center;
+    }
+    .form-input{
+        width: 50%;
+    }
+    .form-box input{
+        width: 66vw;
+    }
+    .form-box textarea{
+        width: 66vw;
+    }
+    .row{
+        flex-direction: column;
+    }
+}
